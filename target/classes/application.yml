@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+
+spring:
+  data:
+    mongodb:
+      database:sprint_db
+        host:localhost
+          port:27017
+    auth:
+      exparation:604800
+      secretkey:password123
